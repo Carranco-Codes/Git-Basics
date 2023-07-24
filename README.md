@@ -4,8 +4,6 @@ These commands can be accessed through GitHub’s Git Cheat Sheet. GitHub is a t
 at just about every job. However, it is so typical of a tool that even if it isn’t listed as a requirement, just
 know that your employer will most likely expect you to have an understanding of GitHub. That said, these are the most basic commands you must know.
 
-Test
-
 ## Basic Commands
 | Command                               |  Description                                                            |
 |---------------------------------------|-------------------------------------------------------------------------|
