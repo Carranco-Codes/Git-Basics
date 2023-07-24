@@ -15,6 +15,7 @@ Test
 | git branch                            | List your branches. A * will appear next to the currently active branch |
 | git branch [branch-name]              | create a new branch at the current commit                               |
 | git checkout                          | Switch to another branch and check it out into your working directory   |
+| git fetch                             | Fetch and merge any commits from the tracking remote branch             |
 | git pull                              | Fetch and merge any commits from the tracking remote branch             |
 | git add [file]                        | add a file as it looks now to your next commit (stage)                  |
 | git commit -m “[descriptive message]” | Commit your staged content as a new commit snapshot                     |
