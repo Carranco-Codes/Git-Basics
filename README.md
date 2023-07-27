@@ -5,3 +5,6 @@ The Git Workflow is probably the hardest concept to understand in Git. It doesn'
 
 # Videos
 Click the link to view the video that goes over [The Git Workflow](https://youtu.be/eucPlQcqGg8).
+
+# Git Workflow
+![Git-Workflow](https://github.com/Carranco-Codes/Git-Basics/assets/10298176/24011bac-e375-49ae-a23f-d0fa307d1bd3)
