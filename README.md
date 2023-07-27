@@ -4,4 +4,4 @@
 The Git Workflow is probably the hardest concept to understand in Git. It doesn't have to be complicated though. This diagram simply breaks down the Git Workflow visually.
 
 # Videos
-Click the link to view the video that goes over (The Git Workflow)[https://youtu.be/eucPlQcqGg8].
+Click the link to view the video that goes over [The Git Workflow](https://youtu.be/eucPlQcqGg8).
