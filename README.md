@@ -7,4 +7,4 @@ GitHub is a tool that is required at just about every job. However, it is so typ
 To access the different sections of this lesson checkout the different branches. Ex. `Part-1`
 
 # Videos
-Click the link to view the videos in the (Git playlist)[https://www.youtube.com/playlist?list=PLgSPNabh_5uQGXzSy1hRXqnLg2CGAgY27].
+Click the link to view the videos in the [Git playlist](https://www.youtube.com/playlist?list=PLgSPNabh_5uQGXzSy1hRXqnLg2CGAgY27).
