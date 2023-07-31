@@ -3,6 +3,10 @@
 
 These are 7 commands that will help you understand future videos as we navigate through the command line.
 
+# Objectives:
+- [ ] Understand what a Terminal Application is
+- [ ] Learn 7 new commands
+
 # Terms:
 
 ### Terminal
